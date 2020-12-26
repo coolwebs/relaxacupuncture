@@ -1,3 +1,9 @@
+# DS Store mac files
+.DS_Store
+web/.DS_Store
+web/app/.DS_Store
+web/app/plugins/.DS_Store
+
 # Application
 # web/app/plugins/*
 web/app/plugins/all-in-one-wp-migration
